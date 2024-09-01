@@ -4,19 +4,20 @@
         <TargetFramework>netstandard2.1</TargetFramework>
         <AssemblyName>JoyBots.Keyboards</AssemblyName>
         <RootNamespace>JoyBots.Keyboards</RootNamespace>
-        <PackageVersion>0.0.1</PackageVersion>
+        <PackageVersion>0.0.2</PackageVersion>
         <Title>JoyBots.Keyboards</Title>
         <Authors>Konstantin Komarov</Authors>
         <Description>Keyboards for Telegram bots.</Description>
-        <Copyright>Konstantin Komarov, 2022</Copyright>
+        <Copyright>Konstantin Komarov, 2024</Copyright>
         <PackageProjectUrl>https://github.com/MolinRE/JoyBots.Keyboards</PackageProjectUrl>
         <PackageLicenseUrl>https://github.com/MolinRE/JoyBots.Keyboards/blob/main/LICENSE</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/MolinRE/JoyBots.Keyboards</RepositoryUrl>
         <RepositoryType>GitHub</RepositoryType>
         <PackageTags>telegram</PackageTags>
-        <AssemblyVersion>0.0.1.0</AssemblyVersion>
-        <FileVersion>0.0.1.0</FileVersion>
+        <AssemblyVersion>0.0.2</AssemblyVersion>
+        <FileVersion>0.0.2</FileVersion>
         <NeutralLanguage>en</NeutralLanguage>
+        <Nullable>enable</Nullable>
     </PropertyGroup>
 
     <ItemGroup>
